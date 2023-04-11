@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/5abc.png</file>
+        <file>resources/images/Alipay.png</file>
+        <file>resources/images/b.jpg</file>
+        <file>resources/images/background.jpg</file>
+        <file>resources/images/chess.svg</file>
+        <file>resources/images/WeChat.png</file>
+        <file>resources/images/win.jpg</file>
+        <file>resources/sound/backChess.wav</file>
+        <file>resources/sound/eatChess.wav</file>
+        <file>resources/sound/generalSound.wav</file>
+        <file>resources/sound/moveChess.wav</file>
+        <file>resources/sound/selectChess.wav</file>
+        <file>resources/sound/WinSound.wav</file>
+    </qresource>
+</RCC>
