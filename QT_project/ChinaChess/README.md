@@ -4,4 +4,6 @@
 
 
 # 项目中包含
-![图片](./ChinaChess/IMG_Chess_Relations.png)
+![图片](./IMG_Chess_Relations.png)
+![图片](./IMG_RUN2.png)
+![图片](./IMG_RUN1.png)
